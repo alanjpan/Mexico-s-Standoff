@@ -1,7 +1,7 @@
 # Mexico-s-Standoff
 experimental research tool for political science ("Mexican Standoff" scenario) and information asymmetry
 
-@author: Alan Jerry Pan, CPA, CSC
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used for experimental study of (i) political science, specifically a mexican standoff scenario, and (ii) information asymmetry in decision making (business) and risk-taking.
